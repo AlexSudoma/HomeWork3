@@ -14,12 +14,12 @@ html, body {
 }
 .article-title {
     border-bottom: 1px solid #c6c6c6;
-    padding: inherit;
+    padding: 1rem;
 
 }
 .article-description {
     border: 1px solid #c6c6c6;
-    padding: inherit;
+    padding: 1rem;
 }
 table {
     border-collapse: collapse;
